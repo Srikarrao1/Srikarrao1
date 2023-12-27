@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/srikarrao123" target="blank"><img src="https://img.shields.io/twitter/follow/srikarrao123?logo=twitter&style=for-the-badge" alt="srikarrao123" /></a> </p>
 
-- 🔭 I’m currently working on **Custom zkSidechain**
+- 🔭 I’m currently working on **Custom zkSidechain && libp2p networking in blockchain**
 
 - 🌱 I’m currently learning **Rust, Hyperledger and Cryptography**
 
